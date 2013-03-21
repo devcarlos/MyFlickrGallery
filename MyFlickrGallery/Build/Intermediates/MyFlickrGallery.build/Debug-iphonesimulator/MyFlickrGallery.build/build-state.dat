@@ -4,24 +4,12 @@ r1
 cCheck dependencies
 cProcessInfoPlistFile /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/Info.plist MyFlickrGallery/MyFlickrGallery-Info.plist
 cProcessPCH /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders/MyFlickrGallery-Prefix-btktatkmzogceeegjqltdfiqxprv/MyFlickrGallery-Prefix.pch.pth MyFlickrGallery/MyFlickrGallery-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/AppDelegate.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/ViewController.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/main.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/ViewController.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/AppDelegate.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/Photo.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../Photo.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoViewController.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/MyFlickrGallery normal i386
-cGenerateDSYMFile /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/MyFlickrGallery.app.dSYM /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/MyFlickrGallery
-cCopyStringsFile /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/en.lproj/InfoPlist.strings MyFlickrGallery/en.lproj/InfoPlist.strings
-cCpResource MyFlickrGallery/Default.png Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/Default.png
-cCpResource MyFlickrGallery/Default@2x.png Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/Default@2x.png
-cCpResource MyFlickrGallery/Default-568h@2x.png Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/Default-568h@2x.png
-cCompileStoryboard /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/en.lproj/MainStoryboard.storyboard
-cCpResource ../three20/src/Three20Core/Three20Core.xcodeproj Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/Three20Core.xcodeproj
-cCpResource ../three20/src/Three20Network/Three20Network.xcodeproj Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/Three20Network.xcodeproj
-cCpResource ../three20/src/Three20Style/Three20Style.xcodeproj Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/Three20Style.xcodeproj
-cCpResource ../three20/src/Three20.bundle Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/Three20.bundle
-cTouch /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/MyFlickrGallery.app
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
 c00000000514A69290000000000000110
@@ -64,24 +52,24 @@ t1361477881
 s7027
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/../three20/src/Three20.bundle
-c00000000514B18550000000000000264
-t1363875925
-s612
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/../three20/src/Three20Core/Three20Core.xcodeproj
-c00000000514B1A690000000000000088
-t1363876457
-s136
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/../three20/src/Three20Network/Three20Network.xcodeproj
-c00000000514B1A690000000000000088
-t1363876457
-s136
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/../three20/src/Three20Style/Three20Style.xcodeproj
-c00000000514B1A690000000000000088
-t1363876457
-s136
+c00000000000000000000000000000000
+t2
+s0
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/AppDelegate.o
 t1363880601
@@ -97,8 +85,8 @@ t1363879425
 s21336
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.o
-t1363887466
-s33720
+t1363887915
+s33632
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoViewController.o
 t1363885077
@@ -1257,11 +1245,11 @@ t1363877872
 s1412
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/MyFlickrGallery.app
-t1363887466
+t1363887916
 s442
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/MyFlickrGallery.app.dSYM
-t1363887466
+t1363887916
 s102
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/Default-568h@2x.png
@@ -1281,7 +1269,7 @@ t1363877881
 s880
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/MyFlickrGallery
-t1363887466
+t1363887916
 s2162528
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/MyFlickrGallery.app/PkgInfo
@@ -1388,8 +1376,8 @@ t1363883941
 s441
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoSet.m
-c00000000514B457E000000000000130A
-t1363887486
+c00000000514B4C4A000000000000130A
+t1363889226
 s4874
 
 N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoViewController.h
@@ -1529,7 +1517,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa0dfbbab7efbb641^051abcab7efbb641^---0#1#0#--18"Check dependencies36"A8BAD1A0-F41B-43CF-A974-DF10773117ED-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies295a6d9384fbb641^d5936d9384fbb641^---0#1#0#--18"Check dependencies36"123B43BA-7ADD-4AFC-86DF-92A95F721470-
 
 CCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/AppDelegate.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s385573401.866259
@@ -1561,9 +1549,9 @@ CCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlic
 r0
 
 CCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385580715.782876
-e385580715.864245
-r1
+s385582227.467662
+e385582227.511946
+r0
 xCompileC
 xBuild/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.o
 x/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoSet.m
@@ -1571,7 +1559,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoSet.mb803c9ab7efbb641^a33eddab7efbb641^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoSet.m0000000000000000^4701"CompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.o MyFlickrGallery/../PhotoSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/MyFlickrGallery-generated-files.hmap -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/MyFlickrGallery-own-target-headers.hmap -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/MyFlickrGallery-all-target-headers.hmap -iquote /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/MyFlickrGallery-project-headers.hmap -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../../three20 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/DerivedSources/i386 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/DerivedSources -F/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator -include /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders/MyFlickrGallery-Prefix-btktatkmzogceeegjqltdfiqxprv/MyFlickrGallery-Prefix.pch -MMD -MT dependencies -MF /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.d --serialize-diagnostics /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.dia -c /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoSet.m -o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.o36"32EFAEF5-65D0-43D2-9D5A-26E16EFBBDC1-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoSet.m5a62799384fbb641^390f839384fbb641^-213"error: couldn't run '/Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/Frameworks/DevToolsCore.framework/Resources/xcexec' because an internal error occurred (Resource temporarily unavailable)1(21%IDEActivityLogMessage2@213"error: couldn't run '/Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/Frameworks/DevToolsCore.framework/Resources/xcexec' because an internal error occurred (Resource temporarily unavailable)-385582227#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@145"file://localhost/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoSet.m0000000000000000^4701"CompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.o MyFlickrGallery/../PhotoSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/MyFlickrGallery-generated-files.hmap -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/MyFlickrGallery-own-target-headers.hmap -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/MyFlickrGallery-all-target-headers.hmap -iquote /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/MyFlickrGallery-project-headers.hmap -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../../three20 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/DerivedSources/i386 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/DerivedSources -F/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator -include /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders/MyFlickrGallery-Prefix-btktatkmzogceeegjqltdfiqxprv/MyFlickrGallery-Prefix.pch -MMD -MT dependencies -MF /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.d --serialize-diagnostics /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.dia -c /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/MyFlickrGallery/../PhotoSet.m -o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.o36"3B6A90CC-D7E7-4860-8B87-2EF3E0298E4E-
 
 CCompileC Build/Intermediates/MyFlickrGallery.build/Debug-iphonesimulator/MyFlickrGallery.build/Objects-normal/i386/PhotoSet.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/PhotoSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0

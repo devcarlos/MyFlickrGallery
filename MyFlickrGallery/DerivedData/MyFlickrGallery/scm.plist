@@ -9,12 +9,22 @@
 		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/json-framework</string>
 	</array>
 	<key>LastWorkingCopyScanDate</key>
-	<date>2013-03-21T16:19:20Z</date>
+	<date>2013-03-21T18:06:26Z</date>
 	<key>MissingFilePaths</key>
 	<array>
-		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/Build/Products/Release-iphoneos/libThree20Style.a</string>
+		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTThumbsViewController.h</string>
+		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/TTURLMap.h</string>
+		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/UINSObjectAdditions.h</string>
 		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/Build/Products/Release-iphoneos/libThree20Core.a</string>
+		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Sources/TTMessageSubjectField.m</string>
+		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Sources/TTStyledBlock.m</string>
+		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/Build/Products/Release-iphoneos/libThree20Style.a</string>
 		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/Build/Products/Release-iphoneos/libThree20Network.a</string>
+		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Sources/TTStyledTextParser.m</string>
+		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTNavigationController.h</string>
+		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTPostControllerDelegate.h</string>
+		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Sources/TTHighlightBorderStyle.m</string>
+		<string>/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableCaptionItemCell.h</string>
 	</array>
 	<key>Version</key>
 	<integer>4</integer>
