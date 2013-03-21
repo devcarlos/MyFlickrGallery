@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Sources/TTDefaultStyleSheet.m \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTDefaultStyleSheet.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTStyleSheet.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTGlobalStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/UIColorAdditions.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTDefaultStyleSheet+DragRefreshHeader.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTInsetStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTShapeStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTSolidFillStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTTextStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTImageStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTSolidBorderStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTShadowStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTInnerShadowStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTBevelBorderStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTLinearGradientFillStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTFourBorderStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTLinearGradientBorderStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTReflectiveFillStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTBoxStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTPosition.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTPartStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTContentStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTBlendStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTRectangleShape.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTShape.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTRoundedRectangleShape.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTRoundedLeftArrowShape.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20Style/Headers/TTRoundedRightArrowShape.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTGlobalNetwork.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLCache.h

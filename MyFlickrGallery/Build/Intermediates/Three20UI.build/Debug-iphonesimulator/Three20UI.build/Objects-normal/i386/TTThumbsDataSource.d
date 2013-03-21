@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Sources/TTThumbsDataSource.m \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTThumbsDataSource.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableViewDataSource.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTModel.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLRequestCachePolicy.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTPhotoSource.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTURLObject.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableMoreButton.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableSubtitleItem.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableTextItem.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableLinkedItem.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableItem.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTThumbsTableViewCell.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableViewCell.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTGlobalNavigatorMetrics.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTGlobalNetwork.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLCache.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCoreLocale.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTCorePreprocessorMacros.h

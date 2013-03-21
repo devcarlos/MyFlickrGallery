@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Sources/TTTableMessageItemCell.m \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableMessageItemCell.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableLinkedItemCell.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableViewCell.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTImageView.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTView.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyleDelegate.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLRequestDelegate.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableMessageItem.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableTextItem.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableLinkedItem.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/TTTableItem.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UI/Headers/UIViewAdditions.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/UIFontAdditions.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTGlobalStyle.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTDefaultStyleSheet.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyleSheet.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTCorePreprocessorMacros.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSDateAdditions.h

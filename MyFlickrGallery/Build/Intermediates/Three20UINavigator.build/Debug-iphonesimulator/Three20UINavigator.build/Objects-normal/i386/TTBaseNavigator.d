@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Sources/TTBaseNavigator.m \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/TTBaseNavigator.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/TTNavigatorPersistenceMode.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/TTGlobalNavigatorMetrics.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/TTNavigatorDelegate.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/TTNavigatorRootContainer.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/TTBaseNavigationController.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/TTURLAction.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/TTURLMap.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/TTNavigationMode.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/TTURLNavigatorPattern.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/TTURLPattern.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20UINavigator/Headers/UIViewController+TTNavigator.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/private/TTBaseNavigatorInternal.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UICommon/UIView+TTUICommon.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UICommon/UIViewControllerAdditions.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCore.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTCorePreprocessorMacros.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTDebug.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTDebugFlags.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSDateAdditions.h \
+  /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTAvailability.h

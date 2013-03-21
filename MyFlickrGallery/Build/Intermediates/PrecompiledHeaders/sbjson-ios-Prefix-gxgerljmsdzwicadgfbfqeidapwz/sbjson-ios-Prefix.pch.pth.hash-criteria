@@ -1,0 +1,27 @@
+Contents of /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/json-framework/sbjson-ios/sbjson-ios-Prefix.pch
+
+i386-apple-darwin12.3.0
+-x
+objective-c
+-arch
+i386
+-fmessage-length=0
+-fobjc-arc
+-fpascal-strings
+-O0
+-DDEBUG
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+-fexceptions
+-fasm-blocks
+-fstrict-aliasing
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-mios-simulator-version-min=4.3
+-I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/include
+-Iinclude
+-I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/usr/local/lib/include
+-F/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator
+-F/Applications/Xcode.app/Contents/Developer/Library/Frameworks
+SDK_PRODUCT_BUILD_VERSION=10B141

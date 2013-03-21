@@ -1,0 +1,1307 @@
+TThree20
+v5
+r1
+cCheck dependencies
+cCpHeader Headers/Three20+Additions.h /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20+Additions.h
+cCpHeader Headers/Three20.h /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20.h
+cPhaseScriptExecution "Protect Copied Headers" /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Script-6E645F461187B01F00F08CB1.sh
+cProcessPCH /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders/Three20_Prefix-gucaisbahgbzowcwarqleooflusw/Three20_Prefix.pch.pth Headers/Three20_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Source/Three20.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/libThree20.a normal i386
+cPhaseScriptExecution Lint /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Script-668E6653131ADFFD00ACE4AB.sh
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c00000000514A69290000000000000110
+t1363831081
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000512680ED00000000000015F7
+t1361477869
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000512680EF0000000000000E8D
+t1361477871
+s3725
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders/Three20_Prefix-gucaisbahgbzowcwarqleooflusw/Three20_Prefix.pch.pth
+t1363877880
+s4623556
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.LinkFileList
+c00000000514B1FF800000000000000C8
+t1363877880
+s200
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.o
+t1363877880
+s1928
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Script-668E6653131ADFFD00ACE4AB.sh
+c00000000514B1FF80000000000000027
+t1363877880
+s39
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Script-6E645F461187B01F00F08CB1.sh
+c00000000514B1FF80000000000000026
+t1363877880
+s38
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20+Additions.h
+t1363877880
+s1099
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20.h
+t1363877880
+s904
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTAvailability.h
+c00000000514B1FEE0000000000000A6A
+t1363877870
+s2666
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTCorePreprocessorMacros.h
+c00000000514B1FEE00000000000009FA
+t1363877870
+s2554
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTDebug.h
+c00000000514B1FEE0000000000000EC0
+t1363877870
+s3776
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTEntityTables.h
+c00000000514B1FEE00000000000004E0
+t1363877870
+s1248
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTExtensionAuthor.h
+c00000000514B1FEE0000000000000555
+t1363877870
+s1365
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTExtensionInfo.h
+c00000000514B1FEE00000000000004F6
+t1363877870
+s1270
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTExtensionLoader.h
+c00000000514B1FEE0000000000000A53
+t1363877870
+s2643
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCore.h
+c00000000514B1FEE00000000000005E6
+t1363877870
+s1510
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCoreLocale.h
+c00000000514B1FEE000000000000056D
+t1363877870
+s1389
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCorePaths.h
+c00000000514B1FEE00000000000005D7
+t1363877870
+s1495
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCoreRects.h
+c00000000514B1FEE0000000000000520
+t1363877870
+s1312
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTMarkupStripper.h
+c00000000514B1FEE00000000000003CB
+t1363877870
+s971
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/Three20.h
+c00000000514B1FEE00000000000007AC
+t1363877870
+s1964
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/Three20Core.h
+c00000000514B1FEE00000000000004D8
+t1363877870
+s1240
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Core/Three20Version.h
+c00000000514B1FEE0000000000000461
+t1363877870
+s1121
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTErrorCodes.h
+c00000000514B1FEF000000000000030D
+t1363877871
+s781
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTGlobalNetwork.h
+c00000000514B1FEF000000000000057D
+t1363877871
+s1405
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTModel.h
+c00000000514B1FEF0000000000000CEB
+t1363877871
+s3307
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTModelDelegate.h
+c00000000514B1FEF00000000000008A8
+t1363877871
+s2216
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLCache.h
+c00000000514B1FEF00000000000018EA
+t1363877871
+s6378
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLDataResponse.h
+c00000000514B1FEF0000000000000363
+t1363877871
+s867
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLImageResponse.h
+c00000000514B1FEF0000000000000434
+t1363877871
+s1076
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLRequest.h
+c00000000514B1FEF0000000000002261
+t1363877871
+s8801
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLRequestCachePolicy.h
+c00000000514B1FEF00000000000004CF
+t1363877871
+s1231
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLRequestDelegate.h
+c00000000514B1FEF00000000000006C3
+t1363877871
+s1731
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLRequestModel.h
+c00000000514B1FEF000000000000070C
+t1363877871
+s1804
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLRequestQueue.h
+c00000000514B1FEF0000000000000F0A
+t1363877871
+s3850
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTURLResponse.h
+c00000000514B1FEF0000000000000845
+t1363877871
+s2117
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/TTUserInfo.h
+c00000000514B1FEF0000000000000673
+t1363877871
+s1651
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Network/Three20Network.h
+c00000000514B1FEF000000000000058B
+t1363877871
+s1419
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTBevelBorderStyle.h
+c00000000514B1FF00000000000000563
+t1363877872
+s1379
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTBlendStyle.h
+c00000000514B1FF00000000000000340
+t1363877872
+s832
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTBoxStyle.h
+c00000000514B1FF000000000000005FD
+t1363877872
+s1533
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTContentStyle.h
+c00000000514B1FF000000000000002DB
+t1363877872
+s731
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTDefaultStyleSheet+DragRefreshHeader.h
+c00000000514B1FF000000000000004C3
+t1363877872
+s1219
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTDefaultStyleSheet.h
+c00000000514B1FF00000000000001162
+t1363877872
+s4450
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTFlowLayout.h
+c00000000514B1FF00000000000000324
+t1363877872
+s804
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTFourBorderStyle.h
+c00000000514B1FF00000000000000630
+t1363877872
+s1584
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTGlobalStyle.h
+c00000000514B1FF0000000000000077D
+t1363877872
+s1917
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTGridLayout.h
+c00000000514B1FF00000000000000373
+t1363877872
+s883
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTHighlightBorderStyle.h
+c00000000514B1FF00000000000000442
+t1363877872
+s1090
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTImageStyle.h
+c00000000514B1FF000000000000007A7
+t1363877872
+s1959
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTInnerShadowStyle.h
+c00000000514B1FF000000000000002B8
+t1363877872
+s696
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTInsetStyle.h
+c00000000514B1FF00000000000000337
+t1363877872
+s823
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTLayout.h
+c00000000514B1FF000000000000002F8
+t1363877872
+s760
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTLinearGradientBorderStyle.h
+c00000000514B1FF000000000000005DC
+t1363877872
+s1500
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTLinearGradientFillStyle.h
+c00000000514B1FF000000000000003D5
+t1363877872
+s981
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTMaskStyle.h
+c00000000514B1FF0000000000000032D
+t1363877872
+s813
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTPartStyle.h
+c00000000514B1FF000000000000003CD
+t1363877872
+s973
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTPosition.h
+c00000000514B1FF000000000000002CA
+t1363877872
+s714
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTRectangleShape.h
+c00000000514B1FF000000000000002C8
+t1363877872
+s712
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTReflectiveFillStyle.h
+c00000000514B1FF00000000000000435
+t1363877872
+s1077
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTRoundedLeftArrowShape.h
+c00000000514B1FF0000000000000032E
+t1363877872
+s814
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTRoundedRectangleShape.h
+c00000000514B1FF000000000000004DD
+t1363877872
+s1245
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTRoundedRightArrowShape.h
+c00000000514B1FF00000000000000330
+t1363877872
+s816
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTShadowStyle.h
+c00000000514B1FF00000000000000402
+t1363877872
+s1026
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTShape.h
+c00000000514B1FF000000000000004D8
+t1363877872
+s1240
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTShapeStyle.h
+c00000000514B1FF0000000000000038A
+t1363877872
+s906
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTSolidBorderStyle.h
+c00000000514B1FF00000000000000399
+t1363877872
+s921
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTSolidFillStyle.h
+c00000000514B1FF0000000000000033B
+t1363877872
+s827
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTSpeechBubbleShape.h
+c00000000514B1FF000000000000007EA
+t1363877872
+s2026
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyle.h
+c00000000514B1FF00000000000000474
+t1363877872
+s1140
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyleContext.h
+c00000000514B1FF000000000000004BA
+t1363877872
+s1210
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyleDelegate.h
+c00000000514B1FF0000000000000039D
+t1363877872
+s925
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyleSheet.h
+c00000000514B1FF000000000000003E3
+t1363877872
+s995
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledBlock.h
+c00000000514B1FF000000000000002B7
+t1363877872
+s695
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledBoldNode.h
+c00000000514B1FF000000000000002B8
+t1363877872
+s696
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledBoxFrame.h
+c00000000514B1FF00000000000000437
+t1363877872
+s1079
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledButtonNode.h
+c00000000514B1FF0000000000000042B
+t1363877872
+s1067
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledElement.h
+c00000000514B1FF00000000000000515
+t1363877872
+s1301
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledFrame.h
+c00000000514B1FF000000000000005E0
+t1363877872
+s1504
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledImageFrame.h
+c00000000514B1FF0000000000000046E
+t1363877872
+s1134
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledImageNode.h
+c00000000514B1FF0000000000000043F
+t1363877872
+s1087
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledInline.h
+c00000000514B1FF000000000000002B8
+t1363877872
+s696
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledInlineBlock.h
+c00000000514B1FF000000000000002BD
+t1363877872
+s701
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledInlineFrame.h
+c00000000514B1FF000000000000003F3
+t1363877872
+s1011
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledItalicNode.h
+c00000000514B1FF000000000000002BA
+t1363877872
+s698
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledLineBreakNode.h
+c00000000514B1FF000000000000002BB
+t1363877872
+s699
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledLinkNode.h
+c00000000514B1FF0000000000000041F
+t1363877872
+s1055
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledNode.h
+c00000000514B1FF0000000000000047B
+t1363877872
+s1147
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledText.h
+c00000000514B1FF00000000000000F84
+t1363877872
+s3972
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledTextDelegate.h
+c00000000514B1FF00000000000000314
+t1363877872
+s788
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledTextFrame.h
+c00000000514B1FF000000000000004D5
+t1363877872
+s1237
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledTextNode.h
+c00000000514B1FF0000000000000037D
+t1363877872
+s893
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTStyledTextParser.h
+c00000000514B1FF0000000000000055F
+t1363877872
+s1375
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/TTTextStyle.h
+c00000000514B1FF00000000000000B13
+t1363877872
+s2835
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20Style/Three20Style.h
+c00000000514B1FF00000000000000C09
+t1363877872
+s3081
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTActionSheetController.h
+c00000000514B1FF30000000000000C84
+t1363877875
+s3204
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTActionSheetControllerDelegate.h
+c00000000514B1FF30000000000000704
+t1363877875
+s1796
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTActivityLabel.h
+c00000000514B1FF30000000000000749
+t1363877875
+s1865
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTAlertViewController.h
+c00000000514B1FF30000000000000663
+t1363877875
+s1635
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTAlertViewControllerDelegate.h
+c00000000514B1FF30000000000000394
+t1363877875
+s916
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTButton.h
+c00000000514B1FF30000000000000799
+t1363877875
+s1945
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTButtonBar.h
+c00000000514B1FF300000000000003E1
+t1363877875
+s993
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTErrorView.h
+c00000000514B1FF300000000000004AB
+t1363877875
+s1195
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTExtensionsController.h
+c00000000514B1FF4000000000000068E
+t1363877876
+s1678
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTImageView.h
+c00000000514B1FF30000000000000BD3
+t1363877875
+s3027
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTImageViewDelegate.h
+c00000000514B1FF300000000000005B7
+t1363877875
+s1463
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTLabel.h
+c00000000514B1FF30000000000000346
+t1363877875
+s838
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTLauncherItem.h
+c00000000514B1FF30000000000000673
+t1363877875
+s1651
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTLauncherPersistenceMode.h
+c00000000514B1FF400000000000002F9
+t1363877876
+s761
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTLauncherView.h
+c00000000514B1FF30000000000000E73
+t1363877875
+s3699
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTLauncherViewDelegate.h
+c00000000514B1FF300000000000004F0
+t1363877875
+s1264
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTLink.h
+c00000000514B1FF30000000000000460
+t1363877875
+s1120
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTListDataSource.h
+c00000000514B1FF300000000000003F3
+t1363877875
+s1011
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTMessageController.h
+c00000000514B1FF30000000000001B6A
+t1363877875
+s7018
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTMessageControllerDelegate.h
+c00000000514B1FF3000000000000081A
+t1363877875
+s2074
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTMessageField.h
+c00000000514B1FF3000000000000058E
+t1363877875
+s1422
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTMessageRecipientField.h
+c00000000514B1FF300000000000003C8
+t1363877875
+s968
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTMessageSubjectField.h
+c00000000514B1FF3000000000000037B
+t1363877875
+s891
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTMessageTextField.h
+c00000000514B1FF30000000000000331
+t1363877875
+s817
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTModelViewController.h
+c00000000514B1FF30000000000001712
+t1363877875
+s5906
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTNavigationController.h
+c00000000514B1FF4000000000000047D
+t1363877876
+s1149
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTNavigator.h
+c00000000514B1FF400000000000004CB
+t1363877876
+s1227
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTPageControl.h
+c00000000514B1FF30000000000000505
+t1363877875
+s1285
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTPhoto.h
+c00000000514B1FF300000000000004FC
+t1363877875
+s1276
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTPhotoSource.h
+c00000000514B1FF300000000000004F7
+t1363877875
+s1271
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTPhotoVersion.h
+c00000000514B1FF300000000000002EB
+t1363877875
+s747
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTPhotoView.h
+c00000000514B1FF30000000000000581
+t1363877875
+s1409
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTPhotoViewController.h
+c00000000514B1FF30000000000000C70
+t1363877875
+s3184
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTPickerTextField.h
+c00000000514B1FF30000000000000533
+t1363877875
+s1331
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTPickerTextFieldDelegate.h
+c00000000514B1FF300000000000003DE
+t1363877875
+s990
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTPopupViewController.h
+c00000000514B1FF300000000000005B3
+t1363877875
+s1459
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTPostController.h
+c00000000514B1FF30000000000000955
+t1363877875
+s2389
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTPostControllerDelegate.h
+c00000000514B1FF300000000000005F1
+t1363877875
+s1521
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTRecursiveProgress.h
+c00000000514B1FF30000000000000E79
+t1363877875
+s3705
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTScrollView.h
+c00000000514B1FF30000000000001D7D
+t1363877875
+s7549
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTScrollViewDataSource.h
+c00000000514B1FF3000000000000058A
+t1363877875
+s1418
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTScrollViewDelegate.h
+c00000000514B1FF300000000000007A7
+t1363877875
+s1959
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTSearchBar.h
+c00000000514B1FF3000000000000085C
+t1363877875
+s2140
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTSearchDisplayController.h
+c00000000514B1FF30000000000000637
+t1363877875
+s1591
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTSearchTextField.h
+c00000000514B1FF30000000000000703
+t1363877875
+s1795
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTSearchTextFieldDelegate.h
+c00000000514B1FF30000000000000341
+t1363877875
+s833
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTSearchlightLabel.h
+c00000000514B1FF30000000000000520
+t1363877875
+s1312
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTSectionedDataSource.h
+c00000000514B1FF30000000000000841
+t1363877875
+s2113
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTSplitViewController.h
+c00000000514B1FF4000000000000060D
+t1363877876
+s1549
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTStyledTextLabel.h
+c00000000514B1FF300000000000008CE
+t1363877875
+s2254
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTStyledTextTableCell.h
+c00000000514B1FF30000000000000331
+t1363877875
+s817
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTStyledTextTableItemCell.h
+c00000000514B1FF30000000000000341
+t1363877875
+s833
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTab.h
+c00000000514B1FF30000000000000374
+t1363877875
+s884
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTabBar.h
+c00000000514B1FF300000000000005B2
+t1363877875
+s1458
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTabDelegate.h
+c00000000514B1FF300000000000002FA
+t1363877875
+s762
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTabGrid.h
+c00000000514B1FF300000000000002EC
+t1363877875
+s748
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTabItem.h
+c00000000514B1FF30000000000000409
+t1363877875
+s1033
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTabStrip.h
+c00000000514B1FF40000000000000359
+t1363877876
+s857
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableActivityItem.h
+c00000000514B1FF40000000000000319
+t1363877876
+s793
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableActivityItemCell.h
+c00000000514B1FF30000000000000385
+t1363877875
+s901
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableButton.h
+c00000000514B1FF400000000000002B1
+t1363877876
+s689
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableCaptionItem.h
+c00000000514B1FF40000000000000410
+t1363877876
+s1040
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableCaptionItemCell.h
+c00000000514B1FF400000000000002FF
+t1363877876
+s767
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableControlCell.h
+c00000000514B1FF4000000000000039C
+t1363877876
+s924
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableControlItem.h
+c00000000514B1FF40000000000000392
+t1363877876
+s914
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableFlushViewCell.h
+c00000000514B1FF4000000000000038D
+t1363877876
+s909
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableFooterInfiniteScrollView.h
+c00000000514B1FF4000000000000036B
+t1363877876
+s875
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableGrayTextItem.h
+c00000000514B1FF400000000000002B7
+t1363877876
+s695
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableHeaderDragRefreshView.h
+c00000000514B1FF400000000000007C6
+t1363877876
+s1990
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableHeaderView.h
+c00000000514B1FF400000000000002E2
+t1363877876
+s738
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableImageItem.h
+c00000000514B1FF40000000000000564
+t1363877876
+s1380
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableImageItemCell.h
+c00000000514B1FF40000000000000338
+t1363877876
+s824
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableItem.h
+c00000000514B1FF40000000000000302
+t1363877876
+s770
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableLink.h
+c00000000514B1FF400000000000002AF
+t1363877876
+s687
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableLinkedItem.h
+c00000000514B1FF40000000000000442
+t1363877876
+s1090
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableLinkedItemCell.h
+c00000000514B1FF400000000000002F5
+t1363877876
+s757
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableLongTextItem.h
+c00000000514B1FF400000000000002B7
+t1363877876
+s695
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableMessageItem.h
+c00000000514B1FF40000000000000518
+t1363877876
+s1304
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableMessageItemCell.h
+c00000000514B1FF4000000000000044A
+t1363877876
+s1098
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableMoreButton.h
+c00000000514B1FF4000000000000036D
+t1363877876
+s877
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableMoreButtonCell.h
+c00000000514B1FF400000000000003D1
+t1363877876
+s977
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableRightCaptionItem.h
+c00000000514B1FF400000000000002C1
+t1363877876
+s705
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableRightCaptionItemCell.h
+c00000000514B1FF40000000000000304
+t1363877876
+s772
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableRightImageItem.h
+c00000000514B1FF400000000000002BB
+t1363877876
+s699
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableSection.h
+c00000000514B1FF4000000000000039E
+t1363877876
+s926
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableSettingsItem.h
+c00000000514B1FF400000000000002BE
+t1363877876
+s702
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableSettingsItemCell.h
+c00000000514B1FF40000000000000300
+t1363877876
+s768
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableStyledTextItem.h
+c00000000514B1FF40000000000000482
+t1363877876
+s1154
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableSubtextItem.h
+c00000000514B1FF400000000000002BC
+t1363877876
+s700
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableSubtextItemCell.h
+c00000000514B1FF400000000000002FF
+t1363877876
+s767
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableSubtitleItem.h
+c00000000514B1FF400000000000005F5
+t1363877876
+s1525
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableSubtitleItemCell.h
+c00000000514B1FF40000000000000385
+t1363877876
+s901
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableSummaryItem.h
+c00000000514B1FF400000000000002B6
+t1363877876
+s694
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableTextItem.h
+c00000000514B1FF40000000000000406
+t1363877876
+s1030
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableTextItemCell.h
+c00000000514B1FF400000000000002C3
+t1363877876
+s707
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableView.h
+c00000000514B1FF4000000000000070F
+t1363877876
+s1807
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableViewCell.h
+c00000000514B1FF4000000000000076F
+t1363877876
+s1903
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableViewController.h
+c00000000514B1FF40000000000001103
+t1363877876
+s4355
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableViewDataSource.h
+c00000000514B1FF40000000000000BD1
+t1363877876
+s3025
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableViewDelegate.h
+c00000000514B1FF40000000000000710
+t1363877876
+s1808
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableViewDragRefreshDelegate.h
+c00000000514B1FF400000000000006BA
+t1363877876
+s1722
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableViewGroupedVarHeightDelegate.h
+c00000000514B1FF4000000000000033F
+t1363877876
+s831
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableViewItem.h
+c00000000514B1FF40000000000000371
+t1363877876
+s881
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableViewNetworkEnabledDelegate.h
+c00000000514B1FF4000000000000067A
+t1363877876
+s1658
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableViewPlainDelegate.h
+c00000000514B1FF4000000000000030D
+t1363877876
+s781
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableViewPlainVarHeightDelegate.h
+c00000000514B1FF400000000000002E5
+t1363877876
+s741
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTableViewVarHeightDelegate.h
+c00000000514B1FF4000000000000031D
+t1363877876
+s797
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTextBarController.h
+c00000000514B1FF400000000000008AC
+t1363877876
+s2220
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTextBarDelegate.h
+c00000000514B1FF4000000000000056B
+t1363877876
+s1387
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTextEditor.h
+c00000000514B1FF40000000000000691
+t1363877876
+s1681
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTTextEditorDelegate.h
+c00000000514B1FF40000000000000534
+t1363877876
+s1332
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTThumbView.h
+c00000000514B1FF400000000000002D3
+t1363877876
+s723
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTThumbsDataSource.h
+c00000000514B1FF40000000000000486
+t1363877876
+s1158
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTThumbsTableViewCell.h
+c00000000514B1FF40000000000000521
+t1363877876
+s1313
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTThumbsTableViewCellDelegate.h
+c00000000514B1FF4000000000000031B
+t1363877876
+s795
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTThumbsViewController.h
+c00000000514B1FF40000000000000578
+t1363877876
+s1400
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTThumbsViewControllerDelegate.h
+c00000000514B1FF40000000000000505
+t1363877876
+s1285
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTView.h
+c00000000514B1FF4000000000000041F
+t1363877876
+s1055
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTViewController.h
+c00000000514B1FF400000000000006C8
+t1363877876
+s1736
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTWebController.h
+c00000000514B1FF40000000000000A70
+t1363877876
+s2672
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/TTYouTubeView.h
+c00000000514B1FF400000000000003CF
+t1363877876
+s975
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UI/Three20UI.h
+c00000000514B1FF300000000000015F4
+t1363877875
+s5620
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UICommon/TTBaseViewController.h
+c00000000514B1FEF0000000000000A48
+t1363877871
+s2632
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UICommon/TTGlobalUICommon.h
+c00000000514B1FEF0000000000001895
+t1363877871
+s6293
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UICommon/Three20UICommon.h
+c00000000514B1FEF00000000000002CE
+t1363877871
+s718
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTBaseNavigationController.h
+c00000000514B1FF0000000000000050F
+t1363877872
+s1295
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTBaseNavigator.h
+c00000000514B1FF000000000000021AD
+t1363877872
+s8621
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTGlobalNavigatorMetrics.h
+c00000000514B1FF000000000000006A1
+t1363877872
+s1697
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTNavigationMode.h
+c00000000514B1FF00000000000000449
+t1363877872
+s1097
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTNavigatorDelegate.h
+c00000000514B1FF00000000000000657
+t1363877872
+s1623
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTNavigatorPersistenceMode.h
+c00000000514B1FF00000000000000348
+t1363877872
+s840
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTNavigatorRootContainer.h
+c00000000514B1FF0000000000000036D
+t1363877872
+s877
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTNavigatorViewController.h
+c00000000514B1FF0000000000000036A
+t1363877872
+s874
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTURLAction.h
+c00000000514B1FF00000000000000CBD
+t1363877872
+s3261
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTURLGeneratorPattern.h
+c00000000514B1FF00000000000000379
+t1363877872
+s889
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTURLMap.h
+c00000000514B1FF000000000000016B4
+t1363877872
+s5812
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTURLNavigatorPattern.h
+c00000000514B1FF00000000000000790
+t1363877872
+s1936
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTURLObject.h
+c00000000514B1FF00000000000000497
+t1363877872
+s1175
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/TTURLPattern.h
+c00000000514B1FF00000000000000511
+t1363877872
+s1297
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20UINavigator/Three20UINavigator.h
+c00000000514B1FF00000000000000584
+t1363877872
+s1412
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/libThree20.a
+t1363877880
+s2104
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Headers/Three20+Additions.h
+c00000000514B1855000000000000044B
+t1363875925
+s1099
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Headers/Three20.h
+c00000000514B18550000000000000388
+t1363875925
+s904
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Headers/Three20_Prefix.pch
+c00000000514B185500000000000000B4
+t1363875925
+s180
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Source/Three20.m
+c00000000514B18550000000000000282
+t1363875925
+s642
+
+CBuild AST from /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Source/Three20.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesbf617eab7efbb641^dc9c7eab7efbb641^---0#1#0#--18"Check dependencies36"AC451899-FF98-45E3-B79C-8174365157F1-
+
+CCompileC /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Source/Three20.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385570680.842765
+e385570680.899757
+r1
+xCompileC
+x/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.o
+x/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Source/Three20.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Source/Three20.m1adfd77857fbb641^f355e67857fbb641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Source/Three20.m0000000000000000^4931"CompileC /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.o Source/Three20.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.0 -iquote /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Three20-generated-files.hmap -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Three20-own-target-headers.hmap -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Three20-all-target-headers.hmap -iquote /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Three20-project-headers.hmap -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../../three20 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../../three20 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/DerivedSources/i386 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/DerivedSources -F/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks -include /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders/Three20_Prefix-gucaisbahgbzowcwarqleooflusw/Three20_Prefix.pch -MMD -MT dependencies -MF /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.d --serialize-diagnostics /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.dia -c /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Source/Three20.m -o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.o36"84C115BF-1343-4C1A-B080-5940FE1D75E5-
+
+CCpHeader Headers/Three20+Additions.h /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20+Additions.h
+s385570680.521151
+e385570680.539490
+r1
+xCpHeader
+xHeaders/Three20+Additions.h
+x/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20+Additions.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection180"Copy /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20+Additions.h9775877857fbb641^d61a8a7857fbb641^---0#0#0#-19%DVTDocumentLocation2@191"file://localhost/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20+Additions.h000000000080d041^919"CpHeader Headers/Three20+Additions.h /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20+Additions.h    cd /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Headers/Three20+Additions.h /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three2036"87E6F5F2-C260-4590-B322-9EF648899CF9-
+
+CCpHeader Headers/Three20.h /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20.h
+s385570680.521176
+e385570680.534873
+r1
+xCpHeader
+xHeaders/Three20.h
+x/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20.h
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection170"Copy /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20.h6974877857fbb641^12a1897857fbb641^---0#0#0#-19%DVTDocumentLocation2@181"file://localhost/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20.h000000000080d041^889"CpHeader Headers/Three20.h /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three20/Three20.h    cd /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Headers/Three20.h /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20/Three2036"780A139F-AA28-4405-8586-2418805CC8C5-
+
+CLibtool /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/libThree20.a normal i386
+s385570680.910318
+e385570680.916676
+r1
+xLibtool
+x/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/libThree20.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.o has no symbols
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: warning for library: /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/libThree20.a the table of contents is empty (no object file members in the library define global symbols)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection169"Libtool /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/libThree20.a normal i386202ae97857fbb641^b4adea7857fbb641^-836"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.o has no symbols/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: warning for library: /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/libThree20.a the table of contents is empty (no object file members in the library define global symbols)-0#0#0#--1414"Libtool /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/libThree20.a normal i386    cd /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator -L/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/lib -filelist /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.LinkFileList -ObjC -o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/libThree20.a36"73111AA3-2DC9-4DC0-B7A5-0C1D01581A2F-
+
+CPhaseScriptExecution "Protect Copied Headers" /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Script-6E645F461187B01F00F08CB1.sh
+s385580715.525244
+e385580715.553802
+r1
+xPhaseScriptExecution
+xProtect Copied Headers
+x/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Script-6E645F461187B01F00F08CB1.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Run custom shell script 'Protect Copied Headers'b76089ab7efbb641^cac48dab7efbb641^---0#0#0#--24537"PhaseScriptExecution "Protect Copied Headers" /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Script-6E645F461187B01F00F08CB1.sh    cd /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20    setenv ACTION build    setenv ADDRESSBOOKUI_FX "-framework AddressBookUI"    setenv ADDRESSBOOK_FX "-framework AddressBook"    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER carlosjavier    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv AVFOUNDATION_FX "-framework AVFoundation"    setenv BASE_PRODUCT_NAME Three20    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products    setenv BUILD_LIBRARY_VERSION 1.0    setenv BUILD_ROOT /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/yv/pk9yf_z969q5jflb4kglrnh40000gp/C/com.apple.Xcode.502    setenv CCHROOT /var/folders/yv/pk9yf_z969q5jflb4kglrnh40000gp/C/com.apple.Xcode.502    setenv CFNETWORK_FX "-framework CFNetwork"    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/libThree20.a    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/yv/pk9yf_z969q5jflb4kglrnh40000gp/C/com.apple.Xcode.502/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv COREDATA_FX "-framework CoreData"    setenv COREFOUNDATION_FX "-framework CoreFoundation"    setenv COREGRAPHICS_FX "-framework CoreGraphics"    setenv CORELOCATION_FX "-framework CoreLocation"    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Three20.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME libThree20.a.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libThree20.a    setenv EXECUTABLE_PATH libThree20.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv FILE_LIST /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/FixedFiles    setenv FOUNDATION_FX "-framework Foundation"    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator\" \"/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libThree20.a    setenv GAMEKIT_FX "-framework GameKit"    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Headers/Three20_Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS DEBUG    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_WARN_ABOUT_MISSING_NEWLINE YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_CHECK_SWITCH_STATEMENTS NO    setenv GCC_WARN_EFFECTIVE_CPLUSPLUS_VIOLATIONS YES    setenv GCC_WARN_SHADOW YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_LABEL YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADERS_FOLDER_PATH /../three20/    setenv HEADER_SEARCH_PATHS "/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/include /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20 /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../../three20 /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../../three20"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/Three20.dst/usr/local/lib    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER carlosjavier    setenv INSTALL_PATH /usr/local/lib    setenv INSTALL_ROOT /tmp/Three20.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Three20-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/lib"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal/i386/Three20.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12D78    setenv MAC_OS_X_VERSION_ACTUAL 1083    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0803    setenv MAPKIT_FX "-framework MapKit"    setenv MEDIAPLAYER_FX "-framework MediaPlayer"    setenv MESSAGEUI_FX "-framework MessageUI"    setenv MOBILECORESERVICES_FX "-framework MobileCoreServices"    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJC_LIB -lobjc    setenv OBJC_LIBRARY -ObjC    setenv OBJECT_FILE_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Objects-normal    setenv OBJROOT /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates    setenv ONLY_ACTIVE_ARCH NO    setenv OPENGLES_FX "-framework OpenGLES"    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS -ObjC    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10B141    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60100    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /../three20/Three20/private    setenv PRODUCT_NAME Three20    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT Three20    setenv PROJECT_DERIVED_FILE_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/DerivedSources    setenv PROJECT_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20    setenv PROJECT_FILE_PATH /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Three20.xcodeproj    setenv PROJECT_NAME Three20    setenv PROJECT_TEMP_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build    setenv PROJECT_TEMP_ROOT /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates    setenv PUBLIC_HEADERS_FOLDER_PATH /../three20/Three20    setenv QUARTZCORE_FX "-framework QuartzCore"    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REPO_ROOT_PATH /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/../..    setenv REZ_COLLECTOR_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator\" "    setenv ROOT_SOURCE_PATH /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/../../src    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_NAME iphonesimulator6.1    setenv SDK_PRODUCT_BUILD_VERSION 10B141    setenv SECURITY_FX "-framework Security"    setenv SED /usr/bin/sed    setenv SENTESTINGKIT_FX "-framework SenTestingKit"    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/DerivedSources    setenv SHARED_PRECOMPS_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20    setenv SRCROOT /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20    setenv STDLIB_HEADERS /usr/include    setenv STDLIB_LIBRARY /usr/lib    setenv STOREKIT_FX "-framework StoreKit"    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products    setenv SYSTEMCONFIGURATION_FX "-framework SystemConfiguration"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME Three20    setenv TARGET_BUILD_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator    setenv TARGET_NAME Three20    setenv TARGET_TEMP_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build    setenv TEMP_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build    setenv TEMP_FILES_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build    setenv TEMP_FILE_DIR /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build    setenv TEMP_ROOT /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 502    setenv UIKIT_FX "-framework UIKit"    setenv UNSTRIPPED_PRODUCT NO    setenv USER carlosjavier    setenv USER_APPS_DIR /Users/carlosjavier/Applications    setenv USER_LIBRARY_DIR /Users/carlosjavier/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER carlosjavier    setenv VERSION_INFO_FILE Three20_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Three20  PROJECT:Three20-\""    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H512    setenv XCODE_VERSION_ACTUAL 0461    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Script-6E645F461187B01F00F08CB1.sh36"63507F8C-061B-440A-B200-E5CD1CB75DB1-
+
+CPhaseScriptExecution Lint /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Script-668E6653131ADFFD00ACE4AB.sh
+s385580715.602101
+e385580715.698285
+r1
+xPhaseScriptExecution
+xLint
+x/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Script-668E6653131ADFFD00ACE4AB.sh
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Run custom shell script 'Lint'6ff39aab7efbb641^6ac2b2ab7efbb641^---0#0#0#--562"PhaseScriptExecution Lint /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Script-668E6653131ADFFD00ACE4AB.sh    cd /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20    /bin/sh -c /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Script-668E6653131ADFFD00ACE4AB.sh36"9992751C-DE73-41AA-8DBE-699869982DAB-
+
+CProcessPCH /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders/Three20_Prefix-gucaisbahgbzowcwarqleooflusw/Three20_Prefix.pch.pth Headers/Three20_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s385570680.583284
+e385570680.829770
+r1
+xProcessPCH
+x/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders/Three20_Prefix-gucaisbahgbzowcwarqleooflusw/Three20_Prefix.pch.pth
+xHeaders/Three20_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Headers/Three20_Prefix.pch6170957857fbb641^9c6bd47857fbb641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Headers/Three20_Prefix.pch0000000000000000^4769"ProcessPCH /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders/Three20_Prefix-gucaisbahgbzowcwarqleooflusw/Three20_Prefix.pch.pth Headers/Three20_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wno-switch -Wunused-function -Wunused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wnewline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=3.0 -iquote /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Three20-generated-files.hmap -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Three20-own-target-headers.hmap -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Three20-all-target-headers.hmap -iquote /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/Three20-project-headers.hmap -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../three20 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../../three20 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator/../../three20 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/DerivedSources/i386 -I/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/Three20.build/Debug-iphonesimulator/Three20.build/DerivedSources -F/Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Products/Debug-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks --serialize-diagnostics /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders/Three20_Prefix-gucaisbahgbzowcwarqleooflusw/Three20_Prefix.pch.dia -c /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/three20/src/Three20/Headers/Three20_Prefix.pch -o /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders/Three20_Prefix-gucaisbahgbzowcwarqleooflusw/Three20_Prefix.pch.pth -MMD -MT dependencies -MF /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/Build/Intermediates/PrecompiledHeaders/Three20_Prefix-gucaisbahgbzowcwarqleooflusw/Three20_Prefix.pch.d36"BD9973D4-979C-4B86-868B-E3BEB828D3F5-
+
+CProcessPCH /Users/carlosjavier/Documents/Developer/FOREVERSNAP/MYFLICKRGALLERY/MyFlickrGallery/MyFlickrGallery/DerivedData/MyFlickrGallery/Index/PrecompiledHeaders/Three20_Prefix-evvwzfcidzfaafeyugtngrysadbk_ast/Three20_Prefix.pch.pth Headers/Three20_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/carlosjavier/Library/Developer/Xcode/DerivedData/MyFlickrGallery-dcdabntuxpmptbgyynzyhxsyutia/Index/PrecompiledHeaders/Three20_Prefix-evvwzfcidzfaafeyugtngrysadbk_ast/Three20_Prefix.pch.pth Headers/Three20_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
